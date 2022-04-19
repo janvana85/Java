@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "src_dcb78cde"
+        },
+        {
+            "name": "C++ Compiler",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "C:/MinGW/bin",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true
+        }
+    ]
+}

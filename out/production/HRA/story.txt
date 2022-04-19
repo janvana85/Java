@@ -1,0 +1,23 @@
+Classy:
+rytir
+strelec
+mag
+lucistnik
+
+Zbrane:
+mec         - 20 DMG / 35 Crit
+puska       - 40 DMG
+hulka       - 80 DMG
+luk         -
+
+Monstra:
+gromp       - 200 HP
+
+golem       - 500 HP
+
+vlci        - 50 HP
+
+
+
+main story:
+zabít monstra z jg, neumřít a utect
